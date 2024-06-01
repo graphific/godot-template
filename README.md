@@ -16,8 +16,9 @@ This templates comes with automatic deployment to itch.io for MacOS, Windows, Li
 1. generate new API key in your itch.io settings and setup your `BUTLER_API_KEY` secret - [learn more](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
 2. create a new game on itch.io
 3. setup `ITCHIO_GAME` and `ITCHIO_USERNAME` secrets in Github and assign them to your itch.io username and game name
-  
+
+![itch-example](docs/itchiobuild.jpg)
+
+
 - used for the [Games Transformed](https://itch.io/jam/gt24) game jam
 ![jam-theme](https://img.itch.zone/aW1hZ2UyL2phbS8zODgyMTgvMTYxNTkzMjAucG5n/original/Z4dr8D.png)
-
-
